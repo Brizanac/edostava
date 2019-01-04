@@ -1,0 +1,11 @@
+C:\Users\Ivan\source\repos\sluzba dostave\sluzba dostave\obj\Debug\sluzba dostave.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\sluzba dostave\sluzba dostave\obj\Debug\sluzba_dostave.Form1.resources
+C:\Users\Ivan\source\repos\sluzba dostave\sluzba dostave\obj\Debug\sluzba_dostave.Form2.resources
+C:\Users\Ivan\source\repos\sluzba dostave\sluzba dostave\obj\Debug\sluzba_dostave.Properties.Resources.resources
+C:\Users\Ivan\source\repos\sluzba dostave\sluzba dostave\obj\Debug\sluzba dostave.csproj.GenerateResource.cache
+C:\Users\Ivan\source\repos\sluzba dostave\sluzba dostave\obj\Debug\sluzba dostave.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\sluzba dostave\sluzba dostave\bin\Debug\sluzba dostave.exe.config
+C:\Users\Ivan\source\repos\sluzba dostave\sluzba dostave\bin\Debug\sluzba dostave.exe
+C:\Users\Ivan\source\repos\sluzba dostave\sluzba dostave\bin\Debug\sluzba dostave.pdb
+C:\Users\Ivan\source\repos\sluzba dostave\sluzba dostave\obj\Debug\sluzba dostave.exe
+C:\Users\Ivan\source\repos\sluzba dostave\sluzba dostave\obj\Debug\sluzba dostave.pdb
